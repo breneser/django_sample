@@ -1,0 +1,5 @@
+---
+applications:
+  - name: django_sample
+    buildpacks:
+      - python_buildpack
